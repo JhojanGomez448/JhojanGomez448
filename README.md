@@ -3,7 +3,9 @@ Hola, soy Jhojan 👋
 Estudiante de Ciencia de Datos en la Fundación Universitaria Compensar, en Bogotá, Colombia. Me gusta trabajar con datos reales: sacarlos de donde están, limpiarlos, analizarlos y convertirlos en algo que sirva para decidir.
 
 En lo que estoy trabajando
+
 🤖 Un bot en Python que busca iPhones usados, guarda los precios en una base de datos y avisa por Telegram cuando encuentra una oferta.
+
 📊 Dashboards y análisis de datos de mercado.
 
 Mis herramientas:
