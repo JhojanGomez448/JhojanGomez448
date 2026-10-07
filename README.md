@@ -14,10 +14,24 @@ Automatización: Playwright, bots de Telegram
 Otros: JavaScript
 
 Proyectos
-Proyecto	Qué hace	Tecnologías
-Sole Economics	Dashboard interactivo sobre la rentabilidad del mercado de reventa de zapatillas: 2.000 modelos y 18 variables de StockX (2023).	HTML, JavaScript, Chart.js
-Bot de precios de iPhones usados	Detecta ofertas calculando el precio promedio por modelo. (En desarrollo)	Python, Playwright, SQLite
-Pronóstico de ventas con series de tiempo	Compara cuatro modelos de pronóstico sobre una serie mensual de ventas simulada. Proyecto en equipo.	Python, series de tiempo
+
+📊 Sole Economics
+
+Dashboard interactivo sobre la rentabilidad del mercado de reventa de zapatillas, con 2.000 modelos y 18 variables de StockX (2023).
+
+HTML JavaScript Chart.js
+
+🤖 Bot de precios de iPhones usados
+
+Detecta ofertas calculando el precio promedio por modelo y avisa por Telegram. (En desarrollo)
+
+Python Playwright SQLite
+
+📈 Pronóstico de ventas con series de tiempo
+
+Compara cuatro modelos de pronóstico sobre una serie mensual de ventas simulada. Proyecto en equipo.
+
+Python Series de tiempo
 
 Contacto
 LinkedIn: www.linkedin.com/in/jhojan-raul-zambrano-gomez-736751269
