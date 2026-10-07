@@ -11,9 +11,13 @@ En lo que estoy trabajando
 Mis herramientas:
 
 Análisis: Python (pandas, NumPy), R
+
 Bases de datos: SQL Server, MySQL, PostgreSQL, SQLite
+
 Visualización: Power BI, Tableau, Chart.js
+
 Automatización: Playwright, bots de Telegram
+
 Otros: JavaScript
 
 Proyectos:
@@ -21,18 +25,23 @@ Proyectos:
 📊 Sole Economics
 
 Dashboard interactivo sobre la rentabilidad del mercado de reventa de zapatillas, con 2.000 modelos y 18 variables de StockX (2023).
+
 HTML | JavaScript | Chart.js
 
 🤖 Bot de precios de iPhones usados
 
 Detecta ofertas calculando el precio promedio por modelo y avisa por Telegram. (En desarrollo)
+
 Python | Playwright | SQLite
 
 📈 Pronóstico de ventas con series de tiempo
 
 Compara cuatro modelos de pronóstico sobre una serie mensual de ventas simulada. Proyecto en equipo.
+
 Python | Series de tiempo
 
 Contacto
+
 LinkedIn: www.linkedin.com/in/jhojan-raul-zambrano-gomez-736751269
+
 Correo: gomezjhoan448@gmail.com
