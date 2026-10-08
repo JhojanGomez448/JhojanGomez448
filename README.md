@@ -6,7 +6,7 @@ Estudiante de Ciencia de Datos en la Fundación Universitaria Compensar, en Bogo
 
 🤖 Un bot en Python que busca iPhones usados, guarda los precios en una base de datos y avisa por Telegram cuando encuentra una oferta.
 
-📊 Dashboards y análisis de datos de mercado.
+ Dashboards y análisis de datos de mercado.
 
 Mis herramientas:
 
@@ -22,23 +22,23 @@ Otros: JavaScript
 
 Proyectos:
 
-📊 Sole Economics
+## Sole Economics
 
 Dashboard interactivo sobre la rentabilidad del mercado de reventa de zapatillas, con 2.000 modelos y 18 variables de StockX (2023).
 
 HTML | JavaScript | Chart.js
 
-🤖 Bot de precios de iPhones usados
+## Bot de precios de iPhones usados
 
 Detecta ofertas calculando el precio promedio por modelo y avisa por Telegram. (En desarrollo)
 
 Python | Playwright | SQLite
 
-📈 Pronóstico de ventas con series de tiempo
+## Simulación Monte Carlo: optimización operativa de un call center 2026
 
-Compara cuatro modelos de pronóstico sobre una serie mensual de ventas simulada. Proyecto en equipo.
+Simulación Monte Carlo con datos reales de un call center (248.373 llamadas), donde se verifico y valido el modelo (pruebas de extremos, sensibilidad y abandono simulado de 9,2 % frente al real de 10,9 %) y a la vez se comparo 2, 3, 5 y 10 agentes con 500 réplicas
 
-Python | Series de tiempo
+Python | NumPy | Matplotlib | SciPy | Simulación Monte Carlo
 
 Contacto
 
